@@ -1,0 +1,33 @@
+# Models
+*.pt
+*.h5
+*.keras
+# Virtual Environment
+.venv/
+
+# Dataset
+archive/
+HAM10000_images_part_1/
+HAM10000_images_part_2/
+
+data/
+archive/
+classification/
+
+
+# Jupyter outputs
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# Dataset
+train/
+val/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
